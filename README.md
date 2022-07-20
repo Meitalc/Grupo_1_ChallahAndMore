@@ -8,7 +8,7 @@ Edad: 20
 Hobbies: escuchar musica, leer y codear
 Nacionalidad: Argentina
 
-Nombre y Apellido: Deboráh Kalejman
+Nombre y Apellido: Déborah Kalejman
 Edad: 35
 Hobbies: codear y bailar
 Nacionalidad:Argentina
