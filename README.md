@@ -25,6 +25,9 @@ Nacionalidad: Argentina
 
 Productos y Servicios brindados:
 Ofrecemos una alta variedad de home made cooking con un catalogo de venta por internet tipo delivery.
-descripcion del publico: Publico que consume comida casera y no tiene ganas de cocinar.
+
+Descripcion del publico: Publico que consume comida casera y no tiene ganas de cocinar.
+
 Comida Kosher ATP. 
+
 "Para su mesa, comida casera con amor"
