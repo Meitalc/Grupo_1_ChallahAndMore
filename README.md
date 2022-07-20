@@ -1,7 +1,7 @@
 # Grupo_1_Challah&More
 Food delivery in Miami
 
-presentacion de los integrantes:
+Presentación de los integrantes:
 
 Nombre y Apellido: Meital Hilu
 Edad: 20
@@ -24,15 +24,15 @@ Hobbies: cocinar, leer y codear
 Nacionalidad: Argentina
 
 Productos y Servicios brindados:
-Ofrecemos una alta variedad de home made cooking con un catalogo de venta por internet tipo delivery.
+Ofrecemos una alta variedad de homemade cooking con un catálogo de venta por Internet tipo delivery.
 
-Descripcion del publico: Publico que consume comida casera y no tiene ganas de cocinar.
+Descripción del público: Público que consume comida casera y no tiene ganas de cocinar.
 
 Comida Kosher ATP. 
 
 "Para su mesa, comida casera con amor"
 
-
+Links de nuestros referentes:
 https://www.kosher.com/recipes
 
 https://holyschnitzel.com/all-you-need-to-know-about-a-kosher-diet/
