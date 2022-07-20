@@ -11,15 +11,15 @@ Nacionalidad: Argentina
 Nombre y Apellido: Déborah Kalejman
 Edad: 35
 Hobbies: codear y bailar
-Nacionalidad:Argentina
+Nacionalidad: Argentina
 
 Nombre y Apellido: Ilanit Safdie
 Edad: 18
 Hobbies: cocinar, pintar y codear
-Nacionalidad:Argentina
+Nacionalidad: Argentina
 
 Nombre y Apellido: Dana Charnis
 Edad: 35
 Hobbies: cocinar, leer y codear
-Nacionalidad:Argentina
+Nacionalidad: Argentina
 
