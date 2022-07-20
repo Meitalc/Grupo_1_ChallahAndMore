@@ -20,6 +20,6 @@ Nacionalidad: Argentina
 
 Nombre y Apellido: Dana Charnis - 
 Edad: 35 - 
-Hobbies: cocinar, leer y codear = 
+Hobbies: cocinar, leer y codear - 
 Nacionalidad: Argentina
 
