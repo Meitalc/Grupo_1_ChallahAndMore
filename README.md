@@ -1,4 +1,4 @@
-# Grupo_1_Challah-More
+# Grupo_1_Challah&More
 Food delivery in Miami
 
 presentacion de los integrantes:
