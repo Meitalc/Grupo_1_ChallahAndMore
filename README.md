@@ -3,23 +3,26 @@ Food delivery in Miami
 
 presentacion de los integrantes:
 
-Nombre y Apellido: Meital Hilu - 
+Nombre y Apellido: Meital Hilu
 Edad: 20
-Hobbies: escuchar musica, leer y codear - 
-Nacionalidad: Argentina 
-
-Nombre y Apellido: Déborah Kalejman - 
-Edad: 35 - 
-Hobbies: codear y bailar - 
+Hobbies: escuchar musica, leer y codear
 Nacionalidad: Argentina
 
-Nombre y Apellido: Ilanit Safdie - 
-Edad: 18 - 
-Hobbies: cocinar, pintar y codear - 
+Nombre y Apellido: Déborah Kalejman
+Edad: 35
+Hobbies: codear y bailar
 Nacionalidad: Argentina
 
-Nombre y Apellido: Dana Charnis - 
-Edad: 35 - 
-Hobbies: cocinar, leer y codear - 
+Nombre y Apellido: Ilanit Safdie
+Edad: 18
+Hobbies: cocinar, pintar y codear
 Nacionalidad: Argentina
+
+Nombre y Apellido: Dana Charnis
+Edad: 35
+Hobbies: cocinar, leer y codear
+Nacionalidad: Argentina
+
+Productos y Servicios brindados:
+Ofrecemos una alta variedad de home made cooking con un catalogo de venta por internet tipo delivery.
 
