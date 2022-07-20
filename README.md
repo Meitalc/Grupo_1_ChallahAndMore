@@ -37,7 +37,7 @@ https://www.kosher.com/recipes   Nos gusto por la estetica
 
 https://holyschnitzel.com/all-you-need-to-know-about-a-kosher-diet/  Nos gusto por la funcionalidad implementada en relacion a que el usuario realice su propia orden
 
-https://www.athoughtforfood.net Nos gusto por la estetica
+https://www.athoughtforfood.net Apunta al publico que queremos recurrir
 
 https://www.athoughtforfood.net  Tiene una estetica muy agradable.
 
