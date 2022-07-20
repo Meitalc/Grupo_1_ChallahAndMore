@@ -31,3 +31,8 @@ Descripcion del publico: Publico que consume comida casera y no tiene ganas de c
 Comida Kosher ATP. 
 
 "Para su mesa, comida casera con amor"
+
+
+https://www.kosher.com/recipes
+
+https://holyschnitzel.com/all-you-need-to-know-about-a-kosher-diet/
