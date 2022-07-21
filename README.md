@@ -10,7 +10,7 @@ Nacionalidad: Argentina
 
 Nombre y Apellido: Déborah Kalejman -
 Edad: 35 -
-Hobbies: codear y bailar -
+Hobbies: bailar y codear -
 Nacionalidad: Argentina
 
 Nombre y Apellido: Ilanit Safdie -
