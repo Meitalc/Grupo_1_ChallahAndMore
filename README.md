@@ -23,14 +23,17 @@ Edad: 35 -
 Hobbies: cocinar, leer y codear -
 Nacionalidad: Argentina
 
+
 Productos y Servicios brindados:
 Ofrecemos una alta variedad de homemade cooking con un catálogo de venta por Internet tipo delivery.
+
 
 Descripción del público: Público que consume comida casera y no tiene ganas de cocinar.
 
 Comida Kosher ATP. 
 
 "Para su mesa, comida casera con amor"
+
 
 Links de nuestros referentes: 
 
@@ -52,4 +55,3 @@ Tiene una estética muy agradable.
 
 https://viandascook.com/?gclid=Cj0KCQjwz96WBhC8ARIsAATR2527ho42_rnVwgp4ONrB-o9lLfABTqgA8ZT5lwlglIqWLDjYolZ-skYaAp4xEALw_wcB     
 
-Apunta a un público que no quiere cocinar lo cual es la idea de nuestra página.
