@@ -55,3 +55,5 @@ Tiene una estética muy agradable.
 
 https://viandascook.com/?gclid=Cj0KCQjwz96WBhC8ARIsAATR2527ho42_rnVwgp4ONrB-o9lLfABTqgA8ZT5lwlglIqWLDjYolZ-skYaAp4xEALw_wcB     
 
+
+Link de Trello --> https://trello.com/b/nlO9pN6T/sprint-2
