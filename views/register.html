@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>register</title>
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="/css/styles.css">
+    
+        
+    <body>
+        <header class="header">
+            
+
+        </header>
+        
+        <main>
+            <h4 class="title-login">Register</h4>
+
+
+            <form action="/register" method="POST" class="form-all"> <div class="engloba-register">               
+
+                <div class="form-control">
+                    <label for="">Username</label>
+                    <input type="text" name="fullname" required>
+                </div>
+                <div class="form-control">
+                    <label for="">Email</label>
+                    <input type="email" name="email" required>
+                    <span><p>Ese nombre de usuario ya existe</p></span>
+                </div>
+                
+                <div class="form-control">
+                    <label for="">Avatar</label>
+                    <input type="file" name="avatar" >
+                </div>
+                <div class="form-control">
+                    <label for="">Password</label>
+                    <input type="password" name="password" required>
+                    <span><p>La contraseña debe contener al menos 8 caracteres, incluyendo una mayúscula</p></span>
+                </div>
+                <div class="form-control">
+                    <label for="">Repet password</label>
+                    <input type="password" name="repassword" required>
+                    <span><p>Las contraseñas no coinciden</p></span>
+                </div>
+
+                <div class="button-register">
+                    <div class="botonenviar"><button type="submit" class="enviar"><a href="/">Register</a> </button></div>
+                    <div class="botonborrar"><button type="reset" class="borrar">Reset</button></div>
+                </div>
+
+                <div class="check-register">
+                    <div class="checkbox-item"><input type="checkbox" name="Remember me" value="Remember me" id="Remember me" class="check">
+                    <label for="remember">Remember me</label></div>
+
+                    <div class="checkbox-item"><input type="checkbox" name="Sign up for our newslatter" value="Sign up for our newslatter" id="newslatter" class="check">
+                    <label for="Sign up for our newslatter">Sign up for our newslatter</label></div>
+                </div>
+
+            </div>  
+            </form>
+    </main>
+
+
+        <footer>
+            
+            
+            </footer>
+    </body>
+</html>

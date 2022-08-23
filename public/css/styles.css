@@ -1,0 +1,111 @@
+/*Home*/
+#super-menu{
+    border: solid 4px blue ;
+    border-style: dotted;
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+}
+
+.site-menu{
+border: solid 4px red;
+    display:flex ;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: nowrap;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: auto;
+    
+    }
+    
+    .user-menu{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: auto;
+    }            
+    .lista{
+        display: flex;
+        justify-content: space-evenly;
+        margin: 2em;
+        width: 100%;
+        }
+        
+
+
+/*Login*/
+
+.welcome{
+    border: solid 3px rgb(223, 144, 60);
+    background-color: orangered;
+    box-shadow: 10px rgb(223, 169, 60);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title-login{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: black;
+    text-align: center;
+   
+}
+
+.form-all {
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    margin: 15px auto;
+    width: 30%;
+    align-items: center;
+    border: solid 3px  orangered;
+    background-color:  orangered;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 2px rgb(255, 132, 0);    
+   }
+  
+.login-left {
+justify-content: center;
+}
+
+.login-rigth{
+    margin-top: 10px;
+    margin-left: -25px;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    height: 45px;
+}
+
+
+/*Register*/
+p{
+    font-size: 12px;
+}
+.button-register{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 10px;
+
+}
+.check-register{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 10px;
+    
+}
+.engloba-register{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
