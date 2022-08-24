@@ -1,40 +1,65 @@
-/*Home*/
-#super-menu{
-    border: solid 4px blue ;
-    border-style: dotted;
-    display: flex;
-    flex-wrap: nowrap;
-    width: 100%;
+/*Header*/
+
+/*Footer*/
+
+.footer-main{
+margin-top: 50px;
+    padding: 10px 0px;
+     background: orangered;
+     height: auto;
 }
 
-.site-menu{
-border: solid 4px red;
-    display:flex ;
-    justify-content: flex-start;
-    align-items: center;
-    flex-wrap: nowrap;
-    padding: 10px;
-    box-sizing: border-box;
-    margin: auto;
-    
-    }
-    
-    .user-menu{
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: flex-end;
-    align-items: center;
-    padding: 10px;
-    box-sizing: border-box;
-    margin: auto;
-    }            
-    .lista{
-        display: flex;
-        justify-content: space-evenly;
-        margin: 2em;
-        width: 100%;
-        }
-        
+.footer-top-box h3{
+	color: black;
+	position: relative;
+	font-size: 20px;
+}
+
+.footer-top-box h3::before {
+    border-bottom: 2px solid rgb(239, 25, 25);
+    content: "";
+    height: 3px;
+    width: 50%;
+    position: absolute;
+    bottom: 3px;
+    left: 0px;
+}
+
+ .footer-top-box p{
+	 padding-bottom: 5px;
+	 color: black;
+     font-size: 16px;
+ }
+
+ .footer-top-box ul{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     align-items: center;
+}
+ .footer-top-box ul li {
+     float: left;
+     margin-right: 5px;
+}
+
+ .footer-copyright{
+     background: rgb(223, 144, 60);
+     padding: 5px 0px;
+     position: relative;
+     width: 100%;
+}
+ .footer-copyright p {
+     text-align: center;
+     color: #ffffff;
+     font-size: 14px;
+}
+
+/*Home*/
+
+
+
+
+
 
 
 /*Login*/
