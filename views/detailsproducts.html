@@ -11,6 +11,7 @@
         products details
     </title>
 </head>
+
 <body>
     <header>
         <div class="menu-base">
@@ -32,16 +33,15 @@
     <main>
         <h3>Nuestros productos</h3>
         <section>
-            <div> <img src="/images/bagel.jpeg" alt="bagel"></div>
-            <p>Bagels</p>
+            <div class="productos"> <img width="150" height="150" src="/images/deserts/bagel.jpeg" alt="bagel"></div>
+            <p>Carrot Cake</p>
             <p class="precios">$1000</p>
-            <div class="detalles">
-<div class="iconocant">
-    <i class=""></i>
-</div>
-<div class="agregaralcarrito">
-    <i class="fa-solid fa-cart-plus"></i>
-</div>
+            <div class="cantidad">
+                <label class="screen-reader-text" for="quantity"></label>
+                <input type="number" id="quantity" class="input" step="1" min="0" max name="cart" value="1"
+                    title="Cantidad" size="4" placeholder inputmode="numeric" autocomplete="off">
+
+            </div>
             </div>
         </section>
     </main>
@@ -50,16 +50,16 @@
             <div class="footer-top-box">
                 <h3>Social Media</h3>
                 <ul>
-                <p>Follow in: </p>
+                    <p>Follow in: </p>
                     <a href="#"><i class="fab fa-facebook" aria-hidden="true"></i> Facebook</a>
                     <a href="#"><i class="fab fa-twitter" aria-hidden="true"></i> Twitter</a>
                     <a href="#"><i class="fab fa-instagram" aria-hidden="true"></i> Instagram</a>
                 </ul>
             </div>
         </div>
-    
+
         <div class="footer-copyright">
-            <p >Made with  <i class="fas fa-heart"></i> by DIGITAL HOUSE - Worldwide 2022 - All Rights Reserved.  </p>
+            <p>Made with <i class="fas fa-heart"></i> by DIGITAL HOUSE - Worldwide 2022 - All Rights Reserved. </p>
         </div>
     </footer>
 </body>
