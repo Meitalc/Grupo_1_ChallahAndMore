@@ -149,9 +149,23 @@ p{
 
 /*detailproducts*/
 p{
-    text-align: left;}
+    text-align: left;
+margin-left: 10px;
+font-size: medium;}
 
-    
+    .productos{
+        margin-left: 10px;
+        border-top: 50px;
+    }
+    .envio{
+        text-align: left;
+    }
+  section{
+      display: flex;
+      flex-direction: row;
+      border-top: 50PX;
+  }
+  
 /*Carrito*/
 
 .engloba-carrito{
