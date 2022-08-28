@@ -3,7 +3,7 @@
 * {
     box-sizing: border-box;
     list-style:none;
-    color: white;
+    color: black;
     text-align: center;
 } 
 
@@ -32,40 +32,44 @@ display: flexbox;
 
 
 .menu-arriba{
+    
 padding: 30px;
 flex-wrap: nowrap;
-width: 140px;
+width: 100%;
 height: 20px;
-margin-left: 50px;
+margin-left: 10px;
+margin-bottom: 10px;
 margin-top: 140px;
 border-color: transparent;
-background-color:  gray;
+background-color:  white;
 opacity: 0.8;
 border-radius: 40%;
 
 }
 .menu-arriba:hover {
-background-color: black;
+background-color: white;
 opacity: 0.7;
 }
 
 
 
 .menu-arriba1{
+    
 padding: 30px;
 flex-wrap: nowrap;
 margin-left: 80px;
 border-radius: 40%;
 border-color: transparent;
-background-color:  gray;
-opacity: 0.8;
+background-color:  white;
+
 }
 
 .menu-arriba1:hover {
-background-color: black;
-opacity: 0.7;
+background-color: white;
+opacity: 0.5;
 }
 .menu-abajo{
+    
     top:50%;
     background-color:rgb(223, 187, 187);
     width: 90%;
@@ -84,6 +88,7 @@ box-shadow: 0px 0px 2px 2px rgb(116, 92, 92);
 
 
 .botones{
+    
 margin: 10px;
 display: flex;
 flex-wrap: nowrap;
@@ -95,8 +100,8 @@ align-items: center;
 
 .boton-menu{
 display: flex;
+margin-left: 20px;
 flex-wrap: nowrap;
-margin: 80px;
 width: 100%;
 
 
@@ -120,6 +125,8 @@ width: 40%;
 body{
 margin: auto;
 padding-top: 5px;
+background-color: lightgreen
+opacity: 0.9;
 
 
 }
@@ -143,7 +150,6 @@ margin-top: 50px;
 }
 
 .footer-top-box h3::before {
-    border-bottom: 2px solid rgb(239, 25, 25);
     content: "";
     height: 3px;
     width: 50%;
